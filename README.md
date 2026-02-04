@@ -31,3 +31,4 @@ gdp-dashboard/
 ├── app.py               # Main application file
 ├── requirements.txt     # List of dependencies
 └── README.md            # Project documentation
+https://gdp-dashboard-533v2m0uxb.streamlit.app/
